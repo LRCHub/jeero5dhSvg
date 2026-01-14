@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Love∞Destiny (GAME VERSION)",
+  "base_artist": "佐久間まゆ(CV:牧野由依)、北条加蓮(CV:渕上舞)、小日向美穂(CV:津田美波)、多田李衣菜(CV:青木瑠璃子)、緒方智絵里(CV:大空直美)",
+  "createdAt": "2026-01-14T03:47:28.034599Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love Destiny (Game Version)",
+      "artist": "Mayu Sakuma (CV: Yui Makino), Karen Hojo (CV: Mai Fuchigami), Miho Kohinata (CV: Minami Tsuda), Riina Tada (CV: Ruriko Aoki) & Chieri Ogata (CV: Naomi Ohzora)",
+      "has_synced": false,
+      "path": "select/01_Love_Destiny_(Game_Version)_Mayu_Sakuma_(CV__Yui_Makino),_Karen_Hojo_(CV__Mai_Fuchigami),_Miho_Kohinata_(CV_.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love∞Destiny (GAME VERSION)",
+      "artist": "佐久間まゆ (牧野由依), 北条加蓮 (渕上舞), 小日向美穂 (津田美波), 多田李衣菜 (青木瑠璃子), 緒方智絵里 (大空直美)",
+      "has_synced": false,
+      "path": "select/pl_01_Love∞Destiny_(GAME_VERSION)_佐久間まゆ_(牧野由依),_北条加蓮_(渕上舞),_小日向美穂_(津田美波),_多田李衣菜_(青木瑠璃子),_緒方智絵里_(大空直美).txt"
+    }
+  ]
+}
